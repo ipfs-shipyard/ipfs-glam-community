@@ -41,4 +41,6 @@ Calls Schedule:
 
 ## Connection Information
 
-Zoom will be used for the calls most likely. Recurring meeting information will be stored here once set up.
+Zoom will be used for the calls. Connect below:
+
+https://zoom.us/j/779-351-365

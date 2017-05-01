@@ -28,7 +28,7 @@ Calls are:
 
 Calls Schedule:
 
-* [Tuesday 2 May 2017 at 10 AM Pacific / 11 AM Mountain / Noon Central / 1 PM Eastern / 6 PM BST / 7 PM CEST](Notes/2017-05-02.mdd)
+* [Tuesday 2 May 2017 at 10 AM Pacific / 11 AM Mountain / Noon Central / 1 PM Eastern / 6 PM BST / 7 PM CEST](https://github.com/ipfs-labs/ipfs-glam-community/issues/1)
   * topic & speaker: Ed Silverton (@edsilv) demo IIIF "Level 0" image tiles loading over IPFS. also (if time) the workflow Gitbook for creating 3D models.
 * [Tuesday 6 June 2017 at 10 AM Pacific / 11 AM Mountain / Noon Central / 1 PM Eastern / 6 PM BST / 7 PM CEST](Notes/2017-06-06.mdd)
   * TBD (sign up to demo or walk through a topic via a pull request on this file or in the communication channels)

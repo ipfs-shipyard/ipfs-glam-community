@@ -30,8 +30,8 @@ Calls Schedule:
 
 * [Tuesday 2 May 2017 at 10 AM Pacific / 11 AM Mountain / Noon Central / 1 PM Eastern / 6 PM BST / 7 PM CEST](Notes/2017-05-02.md)
   * topic & speaker: Ed Silverton (@edsilv) demo IIIF "Level 0" image tiles loading over IPFS. also (if time) the workflow Gitbook for creating 3D models.
-* [Tuesday 6 June 2017 at 10 AM Pacific / 11 AM Mountain / Noon Central / 1 PM Eastern / 6 PM BST / 7 PM CEST](Notes/2017-06-06.md)
-  * TBD (sign up to demo or walk through a topic via a pull request on this file or in the communication channels)
+* [Tuesday 23 May 2017 at 10 AM Pacific / 11 AM Mountain / Noon Central / 1 PM Eastern / 6 PM BST / 7 PM CEST](Notes/2017-05-23.md)
+  * Enno Meijers on his work with MediaChain
 * [Tuesday 4 July 2017 at 10 AM Pacific / 11 AM Mountain / Noon Central / 1 PM Eastern / 6 PM BST / 7 PM CEST](Notes/2017-07-04.md)
   * TBD - may be cancelled or moved due to the U.S. Holiday on this day
 * [Tuesday 8 August 2017 at 10 AM Pacific / 11 AM Mountain / Noon Central / 1 PM Eastern / 6 PM BST / 7 PM CEST](Notes/2017-08-08.md)
